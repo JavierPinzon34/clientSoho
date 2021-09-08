@@ -6,6 +6,9 @@
 # clone repository
 $ git clone https://github.com/JavierPinzon34/clientSoho.git
 
+# cd folder
+$ cd clientSoho
+
 # install dependencies
 $ npm install
 
